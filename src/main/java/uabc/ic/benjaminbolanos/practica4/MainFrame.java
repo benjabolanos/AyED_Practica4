@@ -4,8 +4,9 @@ import javax.swing.JFrame;
 
 
 /**
- *
- * @author bbola
+ * Clase que contiene el frame de el programa. Tiene un TabbedPane que contiene
+ * los paneles de Estados y Juego.
+ * @author benjabolanos
  */
 public class MainFrame extends javax.swing.JFrame {
 

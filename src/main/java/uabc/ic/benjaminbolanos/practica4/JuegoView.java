@@ -5,8 +5,9 @@ import javax.swing.BorderFactory;
 import javax.swing.JLabel;
 
 /**
- *
- * @author bbola
+ * Clase que modela un juego lúdico de adivinar el escudo de un estado. En esta clase
+ * se reunen el control lógico y gráfico del juego.
+ * @author benjabolanos
  */
 public class JuegoView extends javax.swing.JPanel {
     private JuegoControl control;
